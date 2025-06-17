@@ -1,0 +1,163 @@
+{
+  "nav": {
+    "home": "ホーム",
+    "spots": "観光スポット",
+    "events": "イベント",
+    "foods": "グルメ"
+  },
+  "home": {
+    "title": "台湾の美しさを探しに行こう",
+    "subtitle": "この土地とつながろう",
+    "guideLabel": "台湾観光スポットガイド",
+
+    "placeholder": "どこに行きたいですか？",
+
+    "eventTitle": "注目イベント",
+    "spotTitle": "人気スポット",
+    "foodTitle": "絶品グルメ",
+    "details": "もっと見る",
+
+    "popupTitle": "ご案内",
+    "popupContent": "本サイトのコンテンツは TDX 公開 API のデータを使用しています。画像や説明など一部の情報は、元データの制限により不完全または誤って表示される場合があります。あらかじめご了承ください。",
+
+    "loadFailed": "現在データに異常が発生しています。しばらくしてから再度お試しください。ご迷惑をおかけして申し訳ありません"
+  },
+  "common": {
+    "taiwanWalk": "Taiwan Walk（台湾を歩こう）",
+    "more": "もっと見る",
+    "copyright": "台湾観光スポットガイド｜UIデザイン by Breakfast",
+    "hotTopics": "人気のトピック",
+    "noResults": "該当する情報が見つかりませんでした",
+    "searchingAgain": "再度検索してください",
+    "selectDate": "日付を選択",
+    "results": "検索結果",
+    "total_prefix": "",
+    "total_suffix": "件見つかりました",
+    "distanceNote": "※ ご注意：距離は直線です。実際はもっと遠い場合があります。",
+    "nearbyFromPlace": "「{place}」から{km}km以内",
+    "approxDistance": "約 {km} km",
+    "defaultSpotName": "指定スポット",
+    "unknownName": "不明な名称",
+    "unknown": "不明な都市"
+  },
+  "banner": {
+    "one": "新北市｜不厭亭（ふえんてい）",
+    "two": "花蓮県｜清水断崖（チンスイだんがい）",
+    "three": "新北市｜淡水フィッシャーマンズワーフ",
+    "four": "新北市｜九份老街（きゅうふんろうがい）",
+    "five": "台北市｜象山親子ハイキングコース"
+  },
+  "categories": {
+    "allTopics": "すべてのテーマ",
+
+    "nature": "自然",
+    "factory": "観光工場",
+    "arts": "アート",
+    "temple": "寺院・廟",
+    "sports": "スポーツ",
+    "hotspring": "温泉",
+    "heritage": "歴史的建造物",
+    "culture": "文化",
+    "eco": "エコツーリズム",
+    "nationalPark": "国立公園",
+    "scenicArea": "風景区",
+    "forestRecreation": "森林レジャー",
+    "recreation": "レクリエーション",
+    "forestStation": "林場",
+    "urbanPark": "都市公園",
+    "snackSpecialty": "小吃・特産",
+    "agriculture": "農業体験",
+
+    "festival": "祭り・イベント",
+    "annual": "年間イベント",
+    "artEvent": "アートイベント",
+    "seasonal": "季節のイベント",
+    "cycling": "サイクリング",
+
+    "local": "ご当地グルメ",
+    "chinese": "中華料理",
+    "dessert": "スイーツ・かき氷",
+    "international": "各国料理",
+    "souvenir": "お土産",
+    "vegetarian": "ベジタリアン",
+    "nightmarket": "夜市グルメ",
+    "bbq": "焼き料理",
+
+    "other": "その他"
+  },
+  "search": {
+    "spotPlaceholder": "どこに行きたいですか？",
+    "eventPlaceholder": "面白いの探してる？",
+    "foodPlaceholder": "何を食べたいですか？",
+    "searchBtn": "検索"
+  },
+  "city": {
+    "all": "すべての地域",
+
+    "taipei": "台北市",
+    "newTaipei": "新北市",
+    "keelung": "基隆市",
+    "taoyuan": "桃園市",
+    "hsinchu": "新竹市",
+    "hsinchuCounty": "新竹県",
+    "miaoliCounty": "苗栗県",
+
+    "taichung": "台中市",
+    "changhuaCounty": "彰化県",
+    "nantouCounty": "南投県",
+    "yunlinCounty": "雲林県",
+
+    "chiayi": "嘉義市",
+    "chiayiCounty": "嘉義県",
+    "tainan": "台南市",
+    "kaohsiung": "高雄市",
+    "pingtungCounty": "屏東県",
+
+    "yilanCounty": "宜蘭県",
+    "hualienCounty": "花蓮県",
+    "taitungCounty": "台東県",
+
+    "penghuCounty": "澎湖県",
+    "kinmenCounty": "金門県",
+    "lienchiangCounty": "連江県"
+  },
+  "detail": {
+    "share": "シェア",
+    "shareFacebook": "Facebookで共有",
+    "shareMessenger": "Messengerで共有",
+    "shareLine": "Lineで共有",
+    "copyLink": "リンクをコピー",
+
+    "scenicSpotsInfo": "観光スポット情報",
+    "restaurantinfo": "レストラン紹介",
+    "eventInfo": "イベント情報",
+
+    "nearbyInfo": "周辺情報",
+    "nearbyScenicSpots": "周辺観光",
+    "nearbyRestaurants": "周辺グルメ",
+    "nearbyEvents": "周辺イベント",
+
+    "foodPlaceholder": "{city}の他のグルメ",
+    "spotPlaceholder": "{city}の他の観光地",
+    "eventPlaceholder": "{city}の他のイベント",
+
+    "openingHours": "営業時間",
+    "serviceLine": "サービス電話番号",
+    "address": "観光地の住所",
+    "ticketInfo": "料金情報",
+    "importantNotes": "注意事項",
+
+    "contactNumber": "連絡先",
+    "restaurantAddress": "レストラン住所",
+
+    "eventTime": "開催時間",
+    "organizer": "主催者",
+    "eventLocation": "イベント会場",
+
+    "website": "公式サイト",
+    "viewWebsite": "ウェブサイトを見る",
+    "noLocationName": "地名が提供されていません",
+    "notprovided": "提供されていません",
+    "nodetail": "詳細な説明はありません"
+  }
+}

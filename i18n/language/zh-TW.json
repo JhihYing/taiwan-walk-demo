@@ -1,0 +1,165 @@
+{
+  "nav": {
+    "home": "首頁",
+    "spots": "探索景點",
+    "events": "節慶活動",
+    "foods": "品嚐美食"
+  },
+  "home": {
+    "title": "探索台灣之美",
+    "subtitle": "讓我們更親近這片土地",
+    "guideLabel": "台灣旅遊景點導覽",
+
+    "placeholder": "你想去哪裡？請輸入關鍵字",
+
+    "eventTitle": "近期活動",
+    "spotTitle": "熱門打卡景點",
+    "foodTitle": "一再回訪美食",
+    "details": "詳細介紹",
+
+    "popupTitle": "貼心提醒",
+    "popupContent": "本網站內容使用 TDX 公開 API 資料，部分資訊如圖片或描述可能因原始來源限制而出現不完整或錯誤的情況，敬請見諒。",
+
+    "loadFailed": "目前資料異常，請稍後再試，敬請見諒"
+  },
+  "common": {
+    "taiwanWalk": "台灣走走",
+    "copyright": "台灣旅遊景點導覽｜UI design by Breakfast",
+
+    "more": "查看更多",
+
+    "hotTopics": "熱門主題",
+    "noResults": "目前查無資料",
+    "searchingAgain": "請重新搜尋",
+    "selectDate": "選擇日期",
+    "results": "搜尋結果",
+    "total_prefix": "共有",
+    "total_suffix": "筆",
+    "distanceNote": "※ 貼心提醒：此距離為地圖上的直線距離，實際路程可能更遠唷！",
+    "nearbyFromPlace": "距離「{place}」{km}公里內",
+    "approxDistance": "約 {km} 公里",
+    "defaultSpotName": "指定地點",
+    "unknownName": "未知名稱",
+    "unknown": "未知城市"
+  },
+  "banner": {
+    "one": "新北市｜不厭亭",
+    "two": "花蓮縣｜清水斷崖",
+    "three": "新北市｜漁人碼頭",
+    "four": "新北市｜九份老街",
+    "five": "臺北市｜象山親子步道"
+  },
+  "categories": {
+    "allTopics": "全部主題",
+
+    "nature": "自然風景類",
+    "factory": "觀光工廠類",
+    "arts": "藝術類",
+    "temple": "廟宇類",
+    "sports": "體育健身類",
+    "hotspring": "溫泉類",
+    "heritage": "古蹟類",
+    "culture": "文化類",
+    "eco": "生態類",
+    "nationalPark": "國家公園類",
+    "scenicArea": "國家風景區類",
+    "forestRecreation": "森林遊樂區類",
+    "recreation": "遊憩類",
+    "forestStation": "林場類",
+    "urbanPark": "都市公園類",
+    "snackSpecialty": "小吃/特產類",
+    "agriculture": "休閒農業類",
+
+    "festival": "節慶活動",
+    "annual": "年度活動",
+    "artEvent": "藝文活動",
+    "seasonal": "四季活動",
+    "cycling": "自行車活動",
+
+    "local": "地方特產",
+    "chinese": "中式美食",
+    "dessert": "甜點冰品",
+    "international": "異國料理",
+    "souvenir": "伴手禮",
+    "vegetarian": "素食",
+    "nightmarket": "夜市小吃",
+    "bbq": "火烤料理",
+
+    "other": "其他"
+  },
+  "search": {
+    "spotPlaceholder": "你想去哪裡？請輸入關鍵字",
+    "eventPlaceholder": "想找有趣的？請輸入關鍵字",
+    "foodPlaceholder": "你想吃什麼？請輸入關鍵字",
+    "searchBtn": "搜尋"
+  },
+  "city": {
+    "all": "全部縣市",
+
+    "taipei": "臺北市",
+    "newTaipei": "新北市",
+    "keelung": "基隆市",
+    "taoyuan": "桃園市",
+    "hsinchu": "新竹市",
+    "hsinchuCounty": "新竹縣",
+    "miaoliCounty": "苗栗縣",
+
+    "taichung": "臺中市",
+    "changhuaCounty": "彰化縣",
+    "nantouCounty": "南投縣",
+    "yunlinCounty": "雲林縣",
+
+    "chiayi": "嘉義市",
+    "chiayiCounty": "嘉義縣",
+    "tainan": "臺南市",
+    "kaohsiung": "高雄市",
+    "pingtungCounty": "屏東縣",
+
+    "yilanCounty": "宜蘭縣",
+    "hualienCounty": "花蓮縣",
+    "taitungCounty": "臺東縣",
+
+    "penghuCounty": "澎湖縣",
+    "kinmenCounty": "金門縣",
+    "lienchiangCounty": "連江縣"
+  },
+  "detail": {
+    "share": "分享",
+    "shareFacebook": "分享到 Facebook",
+    "shareMessenger": "分享到 Messenger",
+    "shareLine": "分享到 Line",
+    "copyLink": "複製連結",
+
+    "scenicSpotsInfo": "景點介紹",
+    "restaurantinfo": "餐廳介紹",
+    "eventInfo": "活動介紹",
+
+    "nearbyInfo": "周邊資訊",
+    "nearbyScenicSpots": "附近景點",
+    "nearbyRestaurants": "附近美食",
+    "nearbyEvents": "附近活動",
+
+    "foodPlaceholder": "其他{city}美食",
+    "spotPlaceholder": "其他{city}景點",
+    "eventPlaceholder": "其他{city}活動",
+
+    "openingHours": "營業時間",
+    "serviceLine": "服務電話",
+    "address": "景點地址",
+    "ticketInfo": "票價資訊",
+    "importantNotes": "注意事項",
+
+    "contactNumber": "聯絡電話",
+    "restaurantAddress": "餐廳地址",
+
+    "eventTime": "活動時間",
+    "organizer": "主辦單位",
+    "eventLocation": "活動地點",
+
+    "website": "官方網站",
+    "viewWebsite": "查看網站",
+    "noLocationName": "未提供地點名稱",
+    "notprovided": "未提供",
+    "nodetail": "尚無詳細介紹"
+  }
+}

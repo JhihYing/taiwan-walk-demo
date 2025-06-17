@@ -1,0 +1,164 @@
+{
+  "nav": {
+    "home": "Home",
+    "spots": "Scenic Spots",
+    "events": "Events",
+    "foods": "Food & Cuisine"
+  },
+  "home": {
+    "title": "Discover the Beauty of Taiwan",
+    "subtitle": "Connecting with the Land",
+    "guideLabel": "Taiwan Travel Guide",
+
+    "placeholder": "Where do you want to go?",
+
+    "eventTitle": "Events",
+    "spotTitle": "Hot Spots",
+    "foodTitle": "Top Eats",
+    "details": "Details",
+
+    "popupTitle": "Kind Reminder",
+    "popupContent": "This website uses data from the TDX public API. Some content, such as images or descriptions, may be incomplete or inaccurate due to limitations of the original source. We appreciate your understanding.",
+
+    "loadFailed": "Data error occurred. Please try again later. We apologize for the inconvenience"
+  },
+  "common": {
+    "taiwanWalk": "Taiwan Walk",
+    "more": "View More",
+    "copyright": "Taiwan Travel Guide｜UI design by Breakfast",
+    "hotTopics": "Popular Topics",
+    "noResults": "No results found",
+    "searchingAgain": "Please try again",
+
+    "selectDate": "Select Date",
+    "results": "Search Results",
+    "total_prefix": "",
+    "total_suffix": "results found",
+    "distanceNote": "※ Note: Distance is straight-line only. Actual route may be longer.",
+    "nearbyFromPlace": "Within {km} km of「{place}」",
+    "approxDistance": "approx. {km} km",
+    "defaultSpotName": "Selected Location",
+    "unknownName": "Unknown Name",
+    "unknown": "Unknown City"
+  },
+  "banner": {
+    "one": "New Taipei City｜Buyan Pavilion",
+    "two": "Hualien County｜Qingshui Cliffs",
+    "three": "New Taipei City｜Tamsui Fisherman's Wharf",
+    "four": "New Taipei City｜Jiufen Old Street",
+    "five": "Taipei City｜Xiangshan Family Trail"
+  },
+  "categories": {
+    "allTopics": "All Topics",
+
+    "nature": "Nature",
+    "factory": "Tourist Factories",
+    "arts": "Arts",
+    "temple": "Temples",
+    "sports": "Sports & Fitness",
+    "hotspring": "Hot Springs",
+    "heritage": "Historical Sites",
+    "culture": "Culture",
+    "eco": "Ecotourism",
+    "nationalPark": "National Parks",
+    "scenicArea": "Scenic Areas",
+    "forestRecreation": "Forest Recreation Areas",
+    "recreation": "Recreation",
+    "forestStation": "Forest Stations",
+    "urbanPark": "Urban Parks",
+    "snackSpecialty": "Snacks & Local Products",
+    "agriculture": "Agritourism",
+
+    "festival": "Festivals",
+    "annual": "Annual Events",
+    "artEvent": "Art & Culture Events",
+    "seasonal": "Seasonal Events",
+    "cycling": "Cycling Activities",
+
+    "local": "Local Specialties",
+    "chinese": "Chinese Cuisine",
+    "dessert": "Desserts & Ice",
+    "international": "International Cuisine",
+    "souvenir": "Souvenirs",
+    "vegetarian": "Vegetarian",
+    "nightmarket": "Night Market Snacks",
+    "bbq": "Grilled & BBQ Dishes",
+
+    "other": "Others"
+  },
+  "search": {
+    "spotPlaceholder": "Where do you want to go?",
+    "eventPlaceholder": "Looking for something fun?",
+    "foodPlaceholder": "What do you want to eat?",
+    "searchBtn": "Search"
+  },
+  "city": {
+    "all": "All Cities & Counties",
+
+    "taipei": "Taipei City",
+    "newTaipei": "New Taipei City",
+    "keelung": "Keelung City",
+    "taoyuan": "Taoyuan City",
+    "hsinchu": "Hsinchu City",
+    "hsinchuCounty": "Hsinchu County",
+    "miaoliCounty": "Miaoli County",
+
+    "taichung": "Taichung City",
+    "changhuaCounty": "Changhua County",
+    "nantouCounty": "Nantou County",
+    "yunlinCounty": "Yunlin County",
+
+    "chiayi": "Chiayi City",
+    "chiayiCounty": "Chiayi County",
+    "tainan": "Tainan City",
+    "kaohsiung": "Kaohsiung City",
+    "pingtungCounty": "Pingtung County",
+
+    "yilanCounty": "Yilan County",
+    "hualienCounty": "Hualien County",
+    "taitungCounty": "Taitung County",
+
+    "penghuCounty": "Penghu County",
+    "kinmenCounty": "Kinmen County",
+    "lienchiangCounty": "Lienchiang County"
+  },
+  "detail": {
+    "share": "Share",
+    "shareFacebook": "Share to Facebook",
+    "shareMessenger": "Share to Messenger",
+    "shareLine": "Share to Line",
+    "copyLink": "Copy Link",
+
+    "scenicSpotsInfo": "Scenic Spot Info",
+    "restaurantinfo": "Restaurant Info",
+    "eventInfo": "Event Info",
+
+    "nearbyInfo": "Nearby Info",
+    "nearbyScenicSpots": "Nearby Spots",
+    "nearbyRestaurants": "Nearby Eats",
+    "nearbyEvents": "Nearby Events",
+
+    "foodPlaceholder": "More Eats in {city}",
+    "spotPlaceholder": "More Spots in {city}",
+    "eventPlaceholder": "More Events in {city}",
+
+    "openingHours": "Opening Hours",
+    "serviceLine": "Service Line",
+    "address": "Spot Address",
+    "ticketInfo": "Ticket Information",
+    "importantNotes": "Important Notes",
+
+    "contactNumber": "Contact Number",
+    "restaurantAddress": "Restaurant Address",
+
+    "eventTime": "Event Time",
+    "organizer": "Organizer",
+    "eventLocation": "Event Location",
+
+    "website": "Official Website",
+    "viewWebsite": "Visit Website",
+    "noLocationName": "Location name not provided",
+    "notprovided": "Not provided",
+    "nodetail": "No detailed description available"
+  }
+}

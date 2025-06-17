@@ -1,0 +1,34 @@
+{
+  "name": "nuxt-app",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "start": "node .output/server/index.mjs",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@hennge/vue3-pagination": "^1.0.17",
+    "@lottiefiles/dotlottie-vue": "^0.6.3",
+    "@nuxtjs/google-fonts": "^3.2.0",
+    "@tailwindcss/line-clamp": "^0.4.4",
+    "haversine-distance": "^1.2.3",
+    "nuxt": "^3.17.2",
+    "swiper": "^11.2.6",
+    "tailwindcss-textshadow": "^2.1.3",
+    "vue": "^3.5.13",
+    "vue-router": "^4.5.1"
+  },
+  "devDependencies": {
+    "@nuxtjs/i18n": "^10.0.0-beta.5",
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.3",
+    "prettier": "^3.5.3",
+    "prettier-plugin-tailwindcss": "^0.6.11",
+    "tailwindcss": "^3.4.17",
+    "tailwindcss-animate": "^1.0.7"
+  }
+}
