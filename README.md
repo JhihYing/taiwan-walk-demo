@@ -33,7 +33,7 @@ https://taiwan-walk.zeabur.app/
 |------------|------------------------------------------------|
 | 技術        | Vue 3、Nuxt 3、TypeScript、Tailwind CSS         |
 | 多語系處理   | Vue I18n + 本地翻譯 JSON 對照表                  |
-| 資料串接     | TDX API（交通部觀光資料，OAuth 2.0）              |
+| 資料串接     | TDX API (交通部觀光資料)，使用 OAuth 2.0 授權（Client ID / Client Secret）|
 | 地圖嵌入     | Google Maps Embed API                         |
 | 套件應用     | Swiper（輪播圖）                                |
 | 部署平台     | Zeabur                                         |
